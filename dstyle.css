@@ -1,0 +1,15 @@
+<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+
+h1 {
+  font-family: 'Monoton', cursive;
+  color: white;
+}
+
+body {
+  background-image: url("https://66.media.tumblr.com/bc696890ff68cca003c692af6b390e1d/tumblr_o6yznl5Saa1ue8prso1_1280.gifv");
+}
+
+img.animated-gif{
+  width: 100px;
+  height: auto;
+}
